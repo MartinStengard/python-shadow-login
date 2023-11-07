@@ -1,0 +1,10 @@
+certifi==2023.7.22
+charset-normalizer==3.3.2
+helium==3.2.6
+idna==3.4
+packaging==23.2
+python-dotenv==1.0.0
+requests==2.31.0
+selenium==3.141.0
+urllib3==1.26.18
+webdriver-manager==4.0.1
